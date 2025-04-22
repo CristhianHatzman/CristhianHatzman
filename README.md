@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=CristhianHatzman&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -22,22 +20,22 @@
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br/>
 
 <a href="https://github.com/CristhianHatzman" title="Perfil do Cristhian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristhianHatzman&theme=dracula&show_icons=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianHatzman&layout=donut)](https://github.com/CristhianHatzman/github-readme-stats)
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianHatzman&layout=donut)](https://github.com/CristhianHatzman/github-readme-stats)
 
 ## Onde me encontrar
 
 [![Linkekin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhianhatzman/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristhianhatzman@gmail.com)](mailto:cristhianhatzman@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-cristhianhatzman@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristhianhatzman@gmail.com)](mailto:cristhianhatzman@gmail.com)
