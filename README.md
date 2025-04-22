@@ -33,7 +33,7 @@
 <a href="https://github.com/CristhianHatzman" title="Perfil do Cristhian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristhianHatzman&theme=dracula&show_icons=true" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianHatzman&layout=donut)](https://github.com/CristhianHatzman/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianHatzman&layout=compact)
 
 ## Onde me encontrar
 
