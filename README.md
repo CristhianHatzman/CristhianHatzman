@@ -5,7 +5,7 @@
 - 💼 Trabalhando como Desenvolvedor Web Full Stack na Echad Digital.
 - 🌱 Aprendendo mais sobre NodeJs, PostgreeSQL e Java.
 
-## Minhas Skills
+## Skills
 
 **Aplicações e dados**
 
