@@ -1,6 +1,3 @@
-
-## Sobre mim
-
 - 🎓 Estudando Desenvolvimento de Software Multiplataforma na FATEC de Registro (3/6 semestres)
 - 💼 Atualmente estou atuando como Freelancer em projetos.
 - 🌱 Aprendendo mais sobre NodeJs, NoSQL(MongoBD) e Python.
@@ -35,4 +32,6 @@
 ## Onde me encontrar
 
 [![Linkekin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhianhatzman/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cristhianhatzman@gmail.com)](mailto:cristhianhatzman@gmail.com)
+<br />
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&)
+- cristhianhatzman@gmail.com
