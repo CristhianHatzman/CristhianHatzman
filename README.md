@@ -24,7 +24,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianHatzman&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianHatzman&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/CristhianHatzman" title="Perfil do Cristhian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristhianHatzman&theme=dracula&show_icons=true" />
 </a>
@@ -33,5 +33,4 @@
 
 [![Linkekin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhianhatzman/)
 <br />
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&)
 - cristhianhatzman@gmail.com
