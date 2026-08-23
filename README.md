@@ -55,22 +55,6 @@ CRUD web desenvolvido com Node.js, Express, EJS e Sequelize, integrado ao MySQL.
 
 ---
 
-## 📈 Atualmente Estudando
-
-* Arquitetura de Software
-* Docker
-* Testes Automatizados
-* Performance em React
-* Clean Code
-
----
-
-## 🎯 Objetivo Profissional
-
-Atuar como **Desenvolvedor Front-end, Back-end ou Full Stack**, contribuindo com projetos reais, aprendendo continuamente e evoluindo junto com o time.
-
----
-
 ## 📫 Contato
 
 * GitHub: https://github.com/CristhianHatzman
