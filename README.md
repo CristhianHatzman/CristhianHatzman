@@ -37,23 +37,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-
-### 🔹 <a href="https://github.com/CristhianHatzman/bubatag-crud-express-js">Sistema Full Stack </a>
-
-Sistema web desenvolvido com Node.js, Express, EJS e Sequelize, integrado ao MySQL. Possui login, listagem dinâmica de animais e arquitetura em camadas, com foco em organização, manutenção e boas práticas no desenvolvimento.
-
-**Stack**: Node.js • Express • EJS • Sequelize • MySQL • Bootstrap • CSS • JavaScript
-
----
-
-### 🔹 <a href="https://github.com/CristhianHatzman/sistema-loja-nodejs">Painel Administrativo</a>
-
-CRUD web desenvolvido com Node.js, Express, EJS e Sequelize, integrado ao MySQL. O sistema permite gerenciamento de produtos, clientes e pedidos, com arquitetura em camadas, rotas organizadas e interface responsiva, servindo como excelente exemplo prático de MVC e operações completas de estoque.
-
-**Stack**: Node.js • Express • EJS • Sequelize • MySQL • Bootstrap • CSS • JavaScript
-
----
 
 ## 📫 Contato
 
